@@ -1,6 +1,6 @@
 # ✨ Hi! I'm Sorana ✨
-<br>🎓 3rd-year Computer Science student at Technical University of Cluj-Napoca.
-<br>💻 Currently Exploring the world of AI and working on image processing ideas.
+<br>🎓 4th year Computer Science student at Technical University of Cluj-Napoca.
+<br>💻 Actively exploring the world of machine learning.
 <br>⚙️ Passionate about building software systems and discovering new technologies.
 <br>🧩 Always eager to learn and expand my skill set.
 <br>🌱 In my free time, I enjoy gardening and getting lost in a good book.
